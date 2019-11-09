@@ -1,0 +1,42 @@
+Number of Firms:                 565
+Number of Years used:            14
+Total Observations:              7345
+Number of Quantiles:             400
+Confidence Level:                0.950000
+
+
+*********************************************
+
+
+Zero Threshold Model
+Sum of Squared Errors:           16.591220
+
+
+*********************************************
+
+
+Single Threshold Model
+
+Threshold Estimate:              0.015700
+Confidence Region:               0.013920   0.018060
+Sum of Squared Errors:           16.517795
+Trimming Percentage:             0.010000
+
+
+Thresholds0.015700   
+
+Regime-independent Coefficients   standard errors  het standard errors
+0.010478      0.000942      0.001921
+-0.000200      0.000026      0.000065
+0.000001      0.000000      0.000000
+-0.025446      0.004762      0.006785
+0.001424      0.001475      0.001980
+
+Regime- dependent Coefficients     standard errors  het standard errors
+0.058868      0.005614      0.013803
+0.090423      0.005494      0.011593
+
+
+LR Test for threshold effect:    32.649894
+
+
