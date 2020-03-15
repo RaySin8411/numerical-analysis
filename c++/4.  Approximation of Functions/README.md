@@ -17,4 +17,23 @@
 				
 		![](http://latex.codecogs.com/gif.latex?2.%20\pi,%20n=m=0)
 				
-		![](http://latex.codecogs.com/gif.latex?3.%20\frac{\pi}{2},%20n=m%20\neq%200)	
+		![](http://latex.codecogs.com/gif.latex?3.%20\frac{\pi}{2},%20n=m%20\neq%200)
+	
+* Smallest Upper Bound / Smallest Maximum Error (最小的最大誤差)
+	
+	![](http://latex.codecogs.com/gif.latex?\frac{1}{2^{n-1}}T_n(x))
+	
+	* 證明可以用矛盾法(contradiction)去證
+	
+* Chebyshev Series
+	
+	The computational economy to be gained by economizing a Maclaurin series or 
+	by using a Chebyshev series is even more dramatic when the Maclaurin series is slowly convergent.
+	(當 Maclaurin 級數收斂緩慢時，使用 econimized 級數或 Chebyshev 級數來「降低最大誤差」或「將誤差平均化」的效果會更明顯)
+	
+	優點:
+	
+		1. at significant savings of computational effor
+		
+		2. withsmallerstoragerequirementsinacomputer’smemoryforthecoefficients of the polynomials
+	
