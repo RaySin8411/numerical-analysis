@@ -1,4 +1,4 @@
-## **Keypoints*
+## **Keypoints**
 
 	1) Interpolation methods are the basis for many other procedures that you will study in this course, 
 	such as numerical integration and differentiation; (數值積分與微分之基礎)
