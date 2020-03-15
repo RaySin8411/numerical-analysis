@@ -1,12 +1,13 @@
 ## **Chebyshev Polynomials and Chebyshev Series**
 *  Chebyshev Polynomials
+	
 	1. Chebyshev's differential equation:
 
-![](http://latex.codecogs.com/gif.latex?(1-x^2)y^{"}-xy^{'}+\lambda%20y=0%20,where%-1%20\leq%20x%20\leq%201)
+![](http://latex.codecogs.com/gif.latex?(1-x^2)y^{"}-xy^{'}+\lambda%20y=0%20,where%20-1%20\leq%20x%20\leq%201)
 
 	2. Two-term recursion formula:
 
-![](http://latex.codecogs.com/gif.latex?T_{n+1}(x)=2xT_n(x)-T_{n-1}(x)%20\quad%20with%\quad%20T_0(x)=1,\quad%20T_1(x)=x)
+![](http://latex.codecogs.com/gif.latex?T_{n+1}(x)=2xT_n(x)-T_{n-1}(x)%20\quad%20with%20\quad%20T_0(x)=1,\quad%20T_1(x)=x)
 
 	3. An orthogonal set:
 
