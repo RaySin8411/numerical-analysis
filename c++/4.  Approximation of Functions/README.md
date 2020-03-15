@@ -15,12 +15,12 @@
 			
 			case1: 
 				
-				![](http://latex.codecogs.com/gif.latex?0,%20n%20\neq%20m)
+			![](http://latex.codecogs.com/gif.latex?0,%20n%20\neq%20m)
 			
 			case2: 
 				
-				![](http://latex.codecogs.com/gif.latex?\pi,%20n=m=0)
+			![](http://latex.codecogs.com/gif.latex?\pi,%20n=m=0)
 			
 			case3: 
 				
-				![](http://latex.codecogs.com/gif.latex?\frac{\pi}{2},%20n=m%20\neq%200)	
+			![](http://latex.codecogs.com/gif.latex?\frac{\pi}{2},%20n=m%20\neq%200)	
