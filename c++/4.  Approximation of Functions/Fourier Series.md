@@ -39,5 +39,5 @@
 		* **The Gibbs Phenomenon (Gibbs 現象)**
 		
 			The behavior of Fourier series at jump discontinuities of the function is known as the Gibbs phenomenon.
-			It means that the peaks in neighbor of the jump discontinuities do not become smaller as N -> ∞. 
+			It means that the peaks in neighbor of the jump discontinuities do not become smaller as N -> ∞. 
 			Instead, the peaks maintain roughly the same height, but move closer to the discontinuities as N increases.
