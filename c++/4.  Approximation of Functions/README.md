@@ -12,15 +12,9 @@
 	3) An orthogonal set:
 
 		![](http://latex.codecogs.com/gif.latex?\int_{-1}^1\frac{1}{\sqrt{1-x^2}}T_n(x)T_m(x)dx=)
-			
-			case1: 
-				
+							
 			![](http://latex.codecogs.com/gif.latex?0,%20n%20\neq%20m)
-			
-			case2: 
 				
 			![](http://latex.codecogs.com/gif.latex?\pi,%20n=m=0)
-			
-			case3: 
 				
 			![](http://latex.codecogs.com/gif.latex?\frac{\pi}{2},%20n=m%20\neq%200)	
