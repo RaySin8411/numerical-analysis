@@ -2,7 +2,7 @@
 Two partition : 
 
 ## Matlab
-Some linear Algebra code
+Some linear algebra code
 
 ## c++
 1. Solving Nonlinear Equations
